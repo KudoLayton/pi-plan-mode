@@ -1,6 +1,6 @@
 {
   "name": "@kudolayton/pi-plan-mode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Pi extension that adds a Codex-like read-only /plan collaboration mode. (KudoLayton Windows distribution)",
   "type": "module",

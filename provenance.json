@@ -7,6 +7,6 @@
   "trackedChangesSha256": "047c7fb1b8f9a2c0456f5a953fe063ed7dd748b7455cd630207ca546baab0954",
   "supportedPlatform": "win32",
   "testedPiTarget": "0.85.1",
-  "releaseVersion": "0.1.0",
+  "releaseVersion": "0.1.1",
   "bootstrapSha256": "fc4ed26a8911e28802aa0a46a1c2861f3d65e17c5a375a73d4d7f5fa64ea9ec8"
 }

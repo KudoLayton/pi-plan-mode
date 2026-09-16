@@ -7,7 +7,7 @@ Independent Windows distribution of @narumitw/pi-plan-mode. Source and copyright
 Requires Node.js >=22.19, npm, Git, PowerShell 7, and an unmodified Pi 0.85.1. Extensions run with Pi's OS permissions.
 
 ```powershell
-pi install git:github.com/KudoLayton/pi-plan-mode@v0.1.0
+pi install git:github.com/KudoLayton/pi-plan-mode@v0.1.1
 ```
 
 This command becomes available after the public repository and tag are published. For a local smoke, use  `pi -e ./path/to/pi-plan-mode`. No build or source checkout is needed on the destination PC.
